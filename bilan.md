@@ -5,14 +5,14 @@
 ### Environnements de travail et de déploiement, outils
 * Brackets et PHPStorm
 * [Extension *Live Edit*](https://www.jetbrains.com/help/phpstorm/live-editing.html#ws_live_edit_activate_procedure)  
-Vidéo: [crs02_installer-live-edit-pour-phpstorm](https://web.microsoftstream.com/video/16b291dd-2882-4721-b224-707604587bf4?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
+:see_no_evil: __Vidéo__: [crs02_installer-live-edit-pour-phpstorm](https://web.microsoftstream.com/video/16b291dd-2882-4721-b224-707604587bf4?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
 * Filezilla comme premier outil de mise en ligne FTP, et en fait: SFTP.  
-Vidéo: [crs01_connexion-sftp-timunix2](https://web.microsoftstream.com/video/0b013dc2-1a37-4eb1-bc40-b1f9bffa0f6a?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
+:see_no_evil: __Vidéo__: [crs01_connexion-sftp-timunix2](https://web.microsoftstream.com/video/0b013dc2-1a37-4eb1-bc40-b1f9bffa0f6a?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
 * Terminal sur Mac ou Invite de commande sur Windows pour connexion SSH  
 On réutilise les [notes du cours Profession intégrateur pour les commandes UNIX](documents/notes-de-cours/professionIntegrateur_notes_UNIX-ssh.pdf)  
-Vidéo: [crs01_connexion-ssh](https://web.microsoftstream.com/video/40d7bc3b-3d3f-40e4-9434-26cb70df7615?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
+:see_no_evil: __Vidéo__: [crs01_connexion-ssh](https://web.microsoftstream.com/video/40d7bc3b-3d3f-40e4-9434-26cb70df7615?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
 * Configuration serveurs local et distant dans PHPStorm comme outil de mise en ligne ftp  
-Vidéo [crs08_configs-serveurs-local-et-distant](https://web.microsoftstream.com/video/b9a9c1b9-0285-48c8-80f9-14033432d63f?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
+:see_no_evil: __Vidéo__ [crs08_configs-serveurs-local-et-distant](https://web.microsoftstream.com/video/b9a9c1b9-0285-48c8-80f9-14033432d63f?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
 * Github comme serveur de versionnage
 * Github comme hébergeur Web sécurisé avec https
 * Navigateur Chrome, bouton *toggle devices*, inspecteur de code, barre d'outils de développement de Chris Pederick
@@ -78,9 +78,9 @@ Navigation accessible | [Accessibilité de la navigation](documents/notes-de-cou
 
 ### Optimisation des CSS (concaténation et minification)
 #### Méthode de base avec outils en ligne: autopréfixeur + cssminifier
-Vidéo: [crs26_optimisation-des-css](https://web.microsoftstream.com/video/f2384057-cb5f-4ff8-a6d6-1f0ff9f8e405?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)  
+:see_no_evil: __Vidéo__: [crs26_optimisation-des-css](https://web.microsoftstream.com/video/f2384057-cb5f-4ff8-a6d6-1f0ff9f8e405?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)  
 #### Méthode alternative: avec __sass__ 
-Vidéo: [sass pour optimiser les CSS](https://web.microsoftstream.com/video/52f0997c-7777-46bc-8175-93f79adb0e65?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
+:see_no_evil: __Vidéo__: [sass pour optimiser les CSS](https://web.microsoftstream.com/video/52f0997c-7777-46bc-8175-93f79adb0e65?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
 
 
 ## Projets synthèses 
@@ -94,6 +94,7 @@ Compétences acquises:
 * inclure le versionnage dans une routine de travail
 * faire relire son code et le partager par des *pull request*
 * exprimer un bloquant ou un défi d'intégration en publiant une *issue*  
+
 Voir la doc [Contribuer](https://github.com/evefevrier/anticoste/blob/main/_docs/CONTRIBUER.md)  
 
 ### Grilles festives (20%)
@@ -119,7 +120,4 @@ Réalisations des étudiant.e.s:
 * [leonardoog](https://leonardoog.github.io/p1-grille-festive/)
 * [thomaschevarie](https://thomaschevarie.github.io/p1-grille-festive/)
 
-
-
-:octocat:
  
