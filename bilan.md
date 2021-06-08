@@ -18,25 +18,31 @@ Vidéo [crs08_configs-serveurs-local-et-distant](https://web.microsoftstream.com
 * Navigateur Chrome, bouton *toggle devices*, inspecteur de code, barre d'outils de développement de Chris Pederick
 
 ### Méthodes de travail
+
 #### 1. Approche en amélioration progressive
 * Baliser les contenus en HTML <span style="color:red">avant</span> même que le Design ne soit créé
 * Schématiser les stratégies d'intégration
 * Ajouter les éléments HTML et les classes indispensables à la mise en page
 * Ajouter les styles
 * Ajouter les comportements (le JavaScript)
+
 #### 2. Intégrer *Mobile First*
 Vérifier l'ordre et la disposition des contenus sur l'écran étroit 
 avant d'ajouter au fur et à la mesure les variantes pour l'écran large.
+
 #### 3. HTML structurel et sémantique
 Voir le [Guide HTML](https://github.com/evefevrier/guide-developpement-web/blob/main/guide-html.md)
+
 #### 4. Schématiser les stratégies d'intégration
-*Il y aurait une page à ajouter ici pour retracer les méthodes et les exemples selon l'évolution des stratégies d'intégration. 
+Il y aurait une page à ajouter ici pour retracer les méthodes et les exemples selon l'évolution des stratégies d'intégration. 
 En gros, il faut identifier graphiquement les conteneurs de centrage, de rangées et de blocs, les conteneurs *flex* ou *grid*.
-La syntaxe des sélecteurs CSS, qui est aussi la syntaxe pour générer du HTML avec Emmet, est utilisée pour identifier les éléments HTML qui servent de conteneurs.*
+La syntaxe des sélecteurs CSS, qui est aussi la syntaxe pour générer du HTML avec Emmet, est utilisée pour identifier les éléments HTML qui servent de conteneurs.
+
 #### 5. Utiliser les classes comme sélecteurs
 L'objectif est de découpler la structure HTML des CSS en minimisant le recours aux sélecteurs simples.  
-La méthode BEM est *adaptée* et *élargie*: les classes de *bloc* peuvent être des composants ou des contextes.  
+La méthode BEM est *adaptée* et *élargie*: les classes de *bloc* peuvent être des composants __ou__ des contextes.  
 Voir l'exemple du menu principal et ses modificateurs pour l'entête et le pied de page dans le [Guide CSS](https://github.com/evefevrier/guide-developpement-web/blob/main/guide-css.md).
+
 #### 6. Architecture des fichiers CSS
 Voir les explications et les fichiers dans le [cadriciel du guide de développement](https://evefevrier.github.io/guide-developpement-web/cadriciel/index.html), les fichiers se présentent dans l'ordre suivant: 
 * reset ou normalize, 
@@ -46,15 +52,15 @@ Voir les explications et les fichiers dans le [cadriciel du guide de développem
 
 
 ### Styles CSS
-Notions | Démos, exercices ou TPs
---- | ---
-Cascade, spécificité, héritage | Démos et exercices formatifs, test 2
-Différence des modèles de boîte, rôle de la propriété box-sizing  | Démos, exercices formatifs, test 2
-Flottants et positionnement | Démos, exercice formatif
-Mise en page avec des Flexbox | [Jeu](https://flexboxfroggy.com/#fr), Katas, TP2, test 3
-Mise en page avec des Flexbox avec système de grille fluide | Démos, TP3, TP4 et TP5, P2
-CSS Grids |  [Jeu](https://cssgridgarden.com/#fr), [démos](https://github.com/abookapart/new-css-layout-code), P1
-Transitions et animations | démos [1](https://codepen.io/evefevrier/pen/mdRvzVB) [2](https://codepen.io/evefevrier/pen/yLgZRKB) [3](https://codepen.io/evefevrier/pen/ZELwmXK) [4](https://codepen.io/evefevrier/pen/poRGQvj) [5](https://codepen.io/evefevrier/pen/qBRgvgQ), TP5, P1 et P2
+Notions | Démos, exercices ou TPs  
+--- | ---  
+Cascade, spécificité, héritage | Démos et exercices formatifs, test 2  
+Différence des modèles de boîte, rôle de la propriété box-sizing  | Démos, exercices formatifs, test 2  
+Flottants et positionnement | Démos, exercice formatif  
+Mise en page avec des Flexbox | [Jeu](https://flexboxfroggy.com/#fr), Katas, TP2, test 3  
+Mise en page avec des Flexbox avec système de grille fluide | Démos, TP3, TP4 et TP5, P2  
+CSS Grids |  [Jeu](https://cssgridgarden.com/#fr), [démos](https://github.com/abookapart/new-css-layout-code), P1  
+Transitions et animations | démos [1](https://codepen.io/evefevrier/pen/mdRvzVB) [2](https://codepen.io/evefevrier/pen/yLgZRKB) [3](https://codepen.io/evefevrier/pen/ZELwmXK) [4](https://codepen.io/evefevrier/pen/poRGQvj) [5](https://codepen.io/evefevrier/pen/qBRgvgQ), TP5, P1 et P2  
 
 
 ### Intégrer des svg 
@@ -81,6 +87,7 @@ Vidéo: [sass pour optimiser les CSS](https://web.microsoftstream.com/video/52f0
 La conception et les maquettes des deux projets ont été réalisés dans le cours de Design.
 Le traitement des médias et l'optimisation des images d'Anticoste ont été *coachés* principalement dans le cours de Design et complété dans le cours d'intégration.
 Le projet Anticoste était aussi arrimé avec le cours d'animation pour la conception et la réalisation d'animations vidéos dans la page titre de chaque récit.
+
 ### Anticoste (20%)
 Projet collaboratif: chaque groupe classe = une branche du projet.  
 Compétences acquises:
