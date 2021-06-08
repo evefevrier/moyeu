@@ -88,6 +88,7 @@ Compétences acquises:
 * faire relire son code et le partager par des *pull request*
 * exprimer un bloquant ou un défi d'intégration en publiant une *issue*  
 Voir la doc [Contribuer](https://github.com/evefevrier/anticoste/blob/main/_docs/CONTRIBUER.md)  
+
 ### Grilles festives (20%)
 Projet individuel.    
 Compétence acquise:      
