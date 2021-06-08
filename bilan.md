@@ -52,14 +52,14 @@ Voir les explications et les fichiers dans le [cadriciel du guide de développem
 
 
 ### Styles CSS
-Notions | Démos, exercices ou TPs  
---- | ---  
-Cascade, spécificité, héritage | Démos et exercices formatifs, test 2  
-Différence des modèles de boîte, rôle de la propriété box-sizing  | Démos, exercices formatifs, test 2  
-Flottants et positionnement | Démos, exercice formatif  
-Mise en page avec des Flexbox | [Jeu](https://flexboxfroggy.com/#fr), Katas, TP2, test 3  
-Mise en page avec des Flexbox avec système de grille fluide | Démos, TP3, TP4 et TP5, P2  
-CSS Grids |  [Jeu](https://cssgridgarden.com/#fr), [démos](https://github.com/abookapart/new-css-layout-code), P1  
+Notions | Démos, exercices ou TPs
+--- | ---
+Cascade, spécificité, héritage | Démos et exercices formatifs, test 2
+Différence des modèles de boîte, rôle de la propriété box-sizing | Démos, exercices formatifs, test 2 
+Flottants et positionnement | Démos, exercice formatif
+Mise en page avec des Flexbox | [Jeu](https://flexboxfroggy.com/#fr), Katas, TP2, test 3
+Mise en page avec des Flexbox avec système de grille fluide | Démos, TP3, TP4 et TP5, P2
+CSS Grids | [Jeu](https://cssgridgarden.com/#fr), [démos](https://github.com/abookapart/new-css-layout-code), P1
 Transitions et animations | démos [1](https://codepen.io/evefevrier/pen/mdRvzVB) [2](https://codepen.io/evefevrier/pen/yLgZRKB) [3](https://codepen.io/evefevrier/pen/ZELwmXK) [4](https://codepen.io/evefevrier/pen/poRGQvj) [5](https://codepen.io/evefevrier/pen/qBRgvgQ), TP5, P1 et P2  
 
 
@@ -69,7 +69,7 @@ Transitions et animations | démos [1](https://codepen.io/evefevrier/pen/mdRvzVB
 
 ### Accessibilité
 Notions | Documents | Exercices ou TPs
---- | --- | --- 
+--- | --- | ---
 Contenus accessibles | [Intro à l'accessibilité](documents/notes-de-cours/c13-notes-intro-a11y.pdf) | exercice formatif, test 4
 Contenus accessibles | [Arbre de décision pour texte alternatif](documents/notes-de-cours/c13-arbre-de-decision-pour-alt.pdf) | exercice, test 4
 Formulaires accessibles | [Accessibilité des formulaires](documents/notes-de-cours/c14-formulaires-acces-2019.pdf) | [TP4](enonces/enonce-TP4.pdf), [vidéo du corrigé du TP4](https://web.microsoftstream.com/video/d8cc58f7-1028-44f5-a05a-23ae18015549?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844), test 4
