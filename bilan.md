@@ -93,6 +93,5 @@ Expérimenter les grilles css pour intégrer une *Tim Actu*
 * [leonardoog](https://leonardoog.github.io/p1-grille-festive/)
 * [thomaschevarie](https://thomaschevarie.github.io/p1-grille-festive/)
 
-:movie_camera:  
-:video_camera:  
-:eyes:
+ :movie_camera: :video_camera: :eyes: :rocket: :octocat:
+ 
