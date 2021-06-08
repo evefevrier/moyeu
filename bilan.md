@@ -5,7 +5,7 @@
 ### Environnements de travail et de déploiement
 * Brackets et PHPStorm
 * [Extension *Live Edit*](https://www.jetbrains.com/help/phpstorm/live-editing.html#ws_live_edit_activate_procedure)  
-:clapper: Vidéo: [crs02_installer-live-edit-pour-phpstorm](https://web.microsoftstream.com/video/16b291dd-2882-4721-b224-707604587bf4?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
+Vidéo: [crs02_installer-live-edit-pour-phpstorm](https://web.microsoftstream.com/video/16b291dd-2882-4721-b224-707604587bf4?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
 * Filezilla comme premier outil de mise en ligne FTP, et en fait: SFTP.
 Vidéo: [crs01_connexion-sftp-timunix2](https://web.microsoftstream.com/video/0b013dc2-1a37-4eb1-bc40-b1f9bffa0f6a?channelId=c6d91a1b-127c-44e9-a6f0-5e15d1b58844)
 * Terminal sur Mac ou Invite de commande sur Windows pour connexion SSH
@@ -92,3 +92,7 @@ Expérimenter les grilles css pour intégrer une *Tim Actu*
 * [wahza](https://wahza.github.io/p1-grille-festive/)
 * [leonardoog](https://leonardoog.github.io/p1-grille-festive/)
 * [thomaschevarie](https://thomaschevarie.github.io/p1-grille-festive/)
+
+:movie_camera:  
+:video_camera:  
+:eyes:
